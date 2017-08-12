@@ -104,7 +104,7 @@ namespace ConsoleApp8
 
                     else
                     {
-                        Console.WriteLine("yeniden yoxlayin");
+                        Console.WriteLine("Yeniden yoxlayin:");
                     }
                 }
             }
