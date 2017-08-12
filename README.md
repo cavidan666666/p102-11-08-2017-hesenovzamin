@@ -73,6 +73,8 @@ namespace ConsoleApp8
             if (Zamin.Username == "admin" && Zamin.Password == "admin")
             {
                 Console.WriteLine("sisteme daxil oldunuz");
+                Console.WriteLine("Adiniz:Zamin");
+                Console.WriteLine("Soyadiniz:Hesenov");
             }
             else
             {
